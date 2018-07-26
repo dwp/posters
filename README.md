@@ -5,5 +5,5 @@ DWP Digital repository of posters covering different topics - research, content 
 
 We welcome feedback - please [add an issue](https://github.com/dwpdigitaltech/posters/issues) - positive or negative.
 
-Otherwise you can contact Gavin Elliott, [@gavinelliott](https://twitter.com/gavinelliott), or Ben Holliday, [@benholliday](https://twitter.com/benholliday), on Twitter.
+Otherwise you can contact Gavin Elliott, [@gavinelliott](https://twitter.com/gavinelliott), or Craig Abbott, [@abbott567](https://twitter.com/abbott567), on Twitter.
 
